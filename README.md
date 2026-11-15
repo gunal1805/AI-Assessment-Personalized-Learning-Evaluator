@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Assessment & Personalized Learning Evaluator (TP10)
 
 Evaluates a descriptive answer against a teacher's rubric, explains every mark, finds
@@ -53,3 +54,10 @@ override each mark before confirming the report.
 - Let the teacher review and edit generated questions and rubrics before the student sees them.
 - Evaluate a whole class and show per-concept weaknesses across students.
 - Compare AI marks with teacher marks over time to measure agreement.
+=======
+# AI-Assessment-Personalized-Learning-Evaluator
+AI-assisted grading of descriptive answers against a teacher's rubric. Upload a subject PDF to generate questions, score answers with criterion-level reasoning, find learning gaps and get targeted practice questions. Built with Python, Streamlit, Gemini API and RAG.
+__pycache__/
+.env
+*.pyc
+>>>>>>> origin/main
